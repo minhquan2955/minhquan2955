@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/nmquan295/"><img height="30" src="https://github.com/minhquan2955/images/blob/main/linkedin-brands-solid.png?raw=true" /></a>
     <a href="mailto:minhquan2955@gmail.com"><img height="30" src="https://github.com/minhquan2955/images/blob/main/envelope-regular.png?raw=true" /></a>
   </p>
-  Hi, I'm Minh Quan, Fullstack developer from Hai Noi, Viet Nam.
+  Hi, I'm Minh Quan, Fullstack developer from Ha Noi, Viet Nam.
   <p>
     <a href="https://www.facebook.com/quan.nguyenminh.2905/">Facebook</a> • 
     <a href="https://www.linkedin.com/in/nmquan295/">Linkedin</a> •
