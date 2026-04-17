@@ -4,9 +4,7 @@
   <br>
   <br>
   <br>
-  <a href="https://wangchujiang.com/">
-    <img width="60" height="60" src="https://avatars0.githubusercontent.com/u/1680273?s=460&u=4471b74deb9973096418a93960c664c5ea3bd159&v=4" />
-  </a>
+  <img width="60" height="60" src="https://avatars0.githubusercontent.com/u/1680273?s=460&u=4471b74deb9973096418a93960c664c5ea3bd159&v=4" />
   <br>
   <p>
     <a href="https://www.facebook.com/quan.nguyenminh.2905"><img height="30" src="https://github.com/minhquan2955/images/blob/main/facebook-brands-solid.png?raw=true" /></a>
