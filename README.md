@@ -17,7 +17,6 @@
 
 * 🎓 3rd-year Engineering Student at Academy of Cryptography Techniques (KMA).
 * 🎯 Focusing on **Backend Development** with the Node.js & PostgreSQL ecosystem.
-* 💻 Currently building **CareerAgent** (an AI-integrated online recruitment system) and exploring full-stack real-time applications.
 * 🌍 Open to Backend Developer Internship/Fresher opportunities in Vietnam.
 
 ---
@@ -52,7 +51,8 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Real-time Chat App** | Instant messaging application featuring live updates, user presence, and persistent message storage. | `React`, `Node.js`, `MongoDB` | [Repo](#) \| [Live](#) |
+| **Shorten URL Service** | A fast URL shortening service with QR code generation, Redis caching, and rate limiting — built with MVC architecture. | `Node.js`, `Express 5`, `PostgreSQL`, `Prisma`, `Redis` | [Repo](https://github.com/minhquan2955/ShortenURLWebsite) \| [Live](#) |
+
 
 ---
 
