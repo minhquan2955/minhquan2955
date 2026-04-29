@@ -77,7 +77,7 @@
       <td>
         <a href="https://github.com/minhquan2955/ShortenURLWebsite"><b>🔗 Shorten URL Service</b></a>
         <br/>
-        <a href="https://awesomeurl.onrender.com/">🌐 Live Demo</a>
+        <a href="https://awesomeurl.onrender.com/">🌐 <b>Live Demo</b></a>
       </td>
       <td>A fast, production-ready URL shortening service with QR code generation, Redis caching, and rate limiting.</td>
       <td>
