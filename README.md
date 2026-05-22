@@ -94,7 +94,7 @@
   </tbody>
 </table>
 
-> 💡 **More projects coming soon!** Currently working on a **Real-time Chat Website** with Socket.io.
+> 💡 **More projects coming soon!**
 
 ---
 
@@ -108,15 +108,6 @@
 ✅ Architecture Patterns      — MVC pattern with clear separation of concerns
 ✅ Version Control            — Git workflow with meaningful commit messages
 ```
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhquan2955&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=false" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquan2955&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
-</div>
 
 ---
 
