@@ -81,10 +81,10 @@
       </td>
       <td>A fast, production-ready URL shortening service with QR code generation, Redis caching, and rate limiting.</td>
       <td>
-        ⚡ Redis caching for high-performance redirects<br/>
-        📊 QR code generation<br/>
-        🛡️ Rate limiting & security headers (Helmet)<br/>
-        🏗️ Clean MVC architecture with Prisma ORM<br/>
+         - Redis caching for high-performance redirects<br/>
+        - QR code generation<br/>
+        - Rate limiting & security headers (Helmet)<br/>
+         - Clean MVC architecture with Prisma ORM<br/>
       </td>
       <td>
         <code>Node.js</code> <code>Express 5</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Redis</code>
