@@ -19,17 +19,17 @@
 ### 👨‍💻 About Me
 
 - 🎓 3rd-year **Software Engineering** student at **Academy of Cryptography Techniques (KMA)**.
-- 💻 Passionate about building **scalable backend systems** with clean architecture patterns (MVC, Repository Pattern).
-- 🔧 Daily driver: **Node.js + Express + PostgreSQL + Redis**
+- 💻 Building **scalable backend systems** with clean architecture patterns (MVC, Repository Pattern).
+- 🔄 Transitioning core stack from **Node.js/Express** to **Java + Spring Boot** for backend development.
 - 🌍 Open to **Backend Developer Internship/Fresher** opportunities in Vietnam.
 
 ---
 
 ### 📖 Currently Learning
 
-🐳 **Docker** & Containerization &nbsp;&nbsp;|&nbsp;&nbsp; 🔄 **CI/CD** with GitHub Actions &nbsp;&nbsp;|&nbsp;&nbsp; 🧪 **Testing** with Jest & Supertest
+☕ **Java Core & Spring Boot** &nbsp;&nbsp;|&nbsp;&nbsp; 🐳 **Docker** & Containerization &nbsp;&nbsp;|&nbsp;&nbsp; 📐 **System Design** (caching, load balancing, message queues)
 
-📐 **System Design** fundamentals (caching, load balancing, message queues)
+🔐 **Spring Security + JWT** &nbsp;&nbsp;|&nbsp;&nbsp; 🔄 **CI/CD** with GitHub Actions
 
 ---
 
@@ -37,12 +37,13 @@
 
 **Backend & Database**
 <br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Frontend**
 <br/>
@@ -56,8 +57,8 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
@@ -75,22 +76,37 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/minhquan2955/ShortenURLWebsite"><b>🔗 Shorten URL Service</b></a>
+        <a href="https://github.com/minhquan2955/ShortenURLWebsite"><b>🔗 Shorten URL Service (Node.js)</b></a>
         <br/>
         <a href="https://awesomeurl.onrender.com/">🌐 <b>Live Demo</b></a>
       </td>
       <td>A fast, production-ready URL shortening service with QR code generation, Redis caching, and rate limiting.</td>
       <td>
-         - Redis caching for high-performance redirects<br/>
+        - Redis caching for high-performance redirects<br/>
         - QR code generation<br/>
         - Rate limiting & security headers (Helmet)<br/>
-         - Clean MVC architecture with Prisma ORM<br/>
+        - Clean MVC architecture with Prisma ORM
       </td>
       <td>
         <code>Node.js</code> <code>Express 5</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Redis</code>
       </td>
     </tr>
-
+    <tr>
+      <td>
+        <a href="[EASYENGLISH_REPO_LINK]"><b>📚 EasyEnglish</b></a>
+        <br/>
+        <a href="[EASYENGLISH_DEMO_LINK]">🌐 <b>Live Demo</b></a>
+      </td>
+      <td>Academic management system for English centers, modeled after Apollo English — role-based access for Admin, Teacher, Student, and Parent.</td>
+      <td>
+        - 13-collection MongoDB schema<br/>
+        - Role-based access control (RBAC)<br/>
+        - Clean MVC architecture
+      </td>
+      <td>
+        <code>React.js</code> <code>Express.js</code> <code>MongoDB</code>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -102,9 +118,9 @@
 
 ```
 ✅ RESTful API Design        — Building clean, well-documented APIs with proper HTTP methods & status codes
-✅ Database Design            — Schema design with relationships, indexing, and migrations (Prisma)
+✅ Database Design            — Schema design with relationships, indexing, and migrations
 ✅ Caching Strategies         — Redis caching with TTL for high-performance data access
-✅ API Security               — Rate limiting, Helmet headers, input validation, and CORS
+✅ API Security               — JWT auth, rate limiting, input validation, and CORS
 ✅ Architecture Patterns      — MVC pattern with clear separation of concerns
 ✅ Version Control            — Git workflow with meaningful commit messages
 ```
