@@ -1,16 +1,25 @@
-# Minh Quan
-
-**Backend Developer**
-
-I build backend applications and RESTful APIs with Java, Spring Boot, Node.js, and Express.js.
-
-[LinkedIn](https://www.linkedin.com/in/nmquan295/) · [GitHub](https://github.com/minhquan2955) · [Resume](./assets/Nguyen_Minh_Quan_Resume_Backend.pdf) · [Email](mailto:minhquan2955@gmail.com)
+<div align="center">
+  <h1>Minh Quan Nguyen</h1>
+  <h3><strong>Backend Developer</strong></h3>
+  <img
+    src=".\assets\aaa-original.gif"
+    alt="Minh Quan profile animation"
+    width="150"
+  />
+  <p>I build backend applications and RESTful APIs with Java, Spring Boot, Node.js, and Express.js.</p>
+  <p>
+    <a href="https://www.linkedin.com/in/nmquan295/">LinkedIn</a> ·
+    <a href="https://github.com/minhquan2955">GitHub</a> ·
+    <a href="./assets/Nguyen_Minh_Quan_Resume_Backend.pdf">Resume</a> ·
+    <a href="mailto:minhquan2955@gmail.com">Email</a>
+  </p>
+</div>
 
 ## About
 
 I am a Software Engineering student at the Academy of Cryptography Techniques (KMA), focused on backend development. I work with Java and Spring Boot as well as Node.js and Express.js, with an interest in clean architecture, reliable APIs, and practical database design.
 
-I am currently looking for a Backend Developer Internship or Fresher opportunity in Vietnam.
+My long-term goal is to become a well-rounded full-stack engineer with a strong focus on software architecture, system design, and DevOps.
 
 ## Technical Skills
 
@@ -22,6 +31,8 @@ I am currently looking for a Backend Developer Internship or Fresher opportunity
 ## Featured Project
 
 ### EasyEnglish
+
+[GitHub Repository](https://github.com/minhquan2955/EasyEnglish)
 
 An academic management system for English centers, modeled after Apollo English and designed for Admin, Teacher, Student, and Parent roles.
 
