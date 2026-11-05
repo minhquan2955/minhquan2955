@@ -72,4 +72,4 @@ A smart parking management system that combines a web application, backend servi
 
 ## Currently Learning
 
-Learning about AI, large language models (LLMs), and retrieval-augmented generation (RAG) to build AI-powered software and grow into an applied AI engineer.
+Learning about AI, large language models (LLMs), and retrieval-augmented generation (RAG) to build AI-powered software and grow into an Agentic AI engineer.
